@@ -1,7 +1,7 @@
 import { useEffect,useRef,useState } from 'react';
 import './App.css';
 import useFetch from './hooks/useFetch';
-import LocationCard from './components/locationCard';
+import LocationCard from './components/LocationCard';
 import ResidentCard from './components/ResidentCard';
 import Pagination from './components/Pagination';
 function App() {
